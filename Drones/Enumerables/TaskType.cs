@@ -1,4 +1,4 @@
 ﻿public enum TaskType
 {
-    SOWING, IRRIGATION, HARVEST
+    SOWING, IRRIGATION, HARVEST, SCOUT, FIX
 }
